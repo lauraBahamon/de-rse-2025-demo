@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-05-08T16:08:53.462917+02:00" version="2.2.2">
+<project xmlns:dc="http://purl.org/dc/elements/1.1/" created="2025-05-08T16:13:41.308474+02:00" version="2.2.2">
 	<title>Weather Analyser</title>
 	<description/>
 	<catalog dc:uri="https://rdmorganiser.github.io/terms/questions/smp"/>
@@ -22,66 +21,6 @@
 		<view dc:uri="https://rdmo.mpdl.mpg.de/views/FAIR4RSview"/>
 	</views>
 	<values>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/citation"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>10278b6f2f69dbeb4866c4c2475257df6df85eab</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-05-08T16:04:52.952201+02:00</created>
-			<updated>2025-05-08T16:04:52.952206+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/license_mit"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text/>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-05-08T16:04:54.037332+02:00</created>
-			<updated>2025-05-08T16:04:54.037337+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/readme"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>c20d47e8658006fd875bcbed1fa11a5ff89dec08</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-05-08T16:04:51.964469+02:00</created>
-			<updated>2025-05-08T16:04:51.964479+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/xml"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>bf8291fbb8649f442c5991900b529ee7b20481ef</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-05-08T16:04:54.989005+02:00</created>
-			<updated>2025-05-08T16:04:54.989011+02:00</updated>
-		</value>
 		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix/>
