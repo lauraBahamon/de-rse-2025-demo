@@ -23,51 +23,6 @@
 	</views>
 	<values>
 		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/citation"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>56c4a79b46ca020f25e60596d86c4bb0642a5683</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-06-23T11:47:35.919613+02:00</created>
-			<updated>2025-06-23T11:47:35.919619+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/readme"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>460af3fedcc50ac6e0379c90696cb99626d316e4</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-06-23T11:47:35.675395+02:00</created>
-			<updated>2025-06-23T11:47:35.675401+02:00</updated>
-		</value>
-		<value>
-			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/metadata/publication/github/sha/xml"/>
-			<set_prefix/>
-			<set_index>0</set_index>
-			<set_collection/>
-			<collection_index>0</collection_index>
-			<text>0b516006e3598e4b9be013cebf48f91d79e8988b</text>
-			<option/>
-			<file/>
-			<value_type>text</value_type>
-			<unit/>
-			<external_id/>
-			<created>2025-06-23T11:47:36.162165+02:00</created>
-			<updated>2025-06-23T11:47:36.162171+02:00</updated>
-		</value>
-		<value>
 			<attribute dc:uri="https://rdmo.mpdl.mpg.de/terms/domain/project/partner/affiliation"/>
 			<set_prefix>1</set_prefix>
 			<set_index>0</set_index>
