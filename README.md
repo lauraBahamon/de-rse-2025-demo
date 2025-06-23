@@ -7,9 +7,9 @@ Weather Analyser
 **Which research field(s) does this software belong to?
 (project/research_field):**
 
-Natural Sciences / Atmospheric Science and Oceanography
+Naturwissenschaften / Atmosphären- und Meeresforschung
 
-Natural Sciences / Water Research
+Naturwissenschaften / Wasserforschung
 
 **What is the intended use of the software? How will your software
 contribute to research? (project/research_question/title):**
@@ -23,10 +23,13 @@ publication
 **Who are the project participants that deal with this software?
 (project/partner/id):**
 
-- Tina Musterfrau (https://orcid.org/XXXX-XXXX-XXXX-X012), Leiterin der
-  Abteilung ABC, MPI YYY
-- Fred Feuerstein (https://orcid.org/XXXX-XXXX-XXXX-X345),
-  Softwareentwickler der Abteilung ABC, MPI YYY
+-   David Walter (https://orcid.org/0000-0001-6807-5007), Research Data
+    Management at Max Planck Digital Library & Data management R/Y Eugen
+    Seibold, PANGAEA data editor at Max Planck Institute for Chemistry
+-   Michael Franke (https://orcid.org/0000-0002-2661-8242), Max Planck
+    Digital Library
+-   Laura Bahamón Jiménez (https://orcid.org/0009-0003-9330-9292),
+    Full-Stack Developer at Max Planck Digital Library
 
 **What licences are on the third-party software components?
 (smp/software-license):**
