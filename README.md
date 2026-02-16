@@ -1,27 +1,21 @@
-# Readme created with RDMO
+# Weather Analyser
 
-**What is the title of the software project? (project/title):**
+This software belongs to the research fields:
 
-Weather Analyser
+-   Natural Sciences / Atmospheric Science and Oceanography
+-   Natural Sciences / Water Research
 
-**Which research field(s) does this software belong to?
-(project/research_field):**
+Its intended use and its contribution to research:
 
-Naturwissenschaften / Atmosphären- und Meeresforschung
+Intended use:\
+1. To bundle all pipeline steps from the raw data from Automatic Weather
+Stations (AWS) to a final dashboard,\
+2. To allow for the download of the data in different formats
 
-Naturwissenschaften / Wasserforschung
+Contribution to research: the software simplifies the quality control,
+and prepares them for publication
 
-**What is the intended use of the software? How will your software
-contribute to research? (project/research_question/title):**
-
-Intended use: 1. To bundle all pipeline steps from the raw data from
-Automatic Weather Stations (AWS) to a final dashboard, 2. To allow for
-the download of the data in different formats Contribution to research:
-the software simplifies the quality control, and prepares them for
-publication
-
-**Who are the project participants that deal with this software?
-(project/partner/id):**
+Contributors:
 
 -   David Walter (https://orcid.org/0000-0001-6807-5007), Research Data
     Management at Max Planck Digital Library & Data management R/Y Eugen
@@ -31,7 +25,4 @@ publication
 -   Laura Bahamón Jiménez (https://orcid.org/0009-0003-9330-9292),
     Full-Stack Developer at Max Planck Digital Library
 
-**What licences are on the third-party software components?
-(smp/software-license):**
-
-MIT
+Software license: MIT
